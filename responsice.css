@@ -1,0 +1,98 @@
+@media (max-width:500px) {
+
+    body {
+        width: 48rem;
+    }
+
+    .form-row {
+        width: 67rem;
+    }
+
+    .banner_wrapper {
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+    :selection{
+
+        width: fit-content;
+        height: fit-content;
+    }
+
+    #swiper {
+        width: 55rem;
+        background-position: center;
+        background-size: cover;
+        padding-left: 0px;
+        margin-left: -110px;
+    }
+
+    .banner_wrapper .swiper {
+        width: 60rem;
+    }
+
+    section .booking-area {
+        margin-left: 8.66rem;
+        width: 49.5rem;
+    }
+
+    section {
+        width: 110%;
+        margin-right: -80px;
+    }
+
+    section .room-items::before {
+        width: 95%;
+    }
+
+    section .room-items:hover::before {
+        opacity: 0.6;
+    }
+
+    .navbar {
+        width: -10px;
+    }
+
+    .row a {
+        position: absolute;
+        justify-self: center;
+        align-items: center;
+        left: 250px;
+        top: 600px;
+        bottom: -80px;
+        margin-bottom: 200px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbarmain {
+        width: 100px;
+    }
+
+    .row .room-content {
+        padding-top: 120px;
+
+    }
+
+    #about_wrapper {
+        margin-top: 140px;
+        margin-bottom: -140px;
+    }
+
+    .room-content p {
+        line-height: 5.8rem;
+        text-align: center;
+        justify-content: center;
+        padding: 20px;
+        margin-top: 20px;
+
+        font-size: 20px;
+        text-wrap: wrap;
+
+    }
+    #cardt{margin-left:0rem;}
+
+}
+
+
+    
